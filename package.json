@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.6.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "gsap": "^3.10.4",
+    "three": "^0.140.2",
+    "three-bmfont-text": "^3.0.1",
+    "troika-three-text": "^0.46.4"
+  }
+}
